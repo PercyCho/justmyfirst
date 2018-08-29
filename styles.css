@@ -23,6 +23,7 @@ body {
     border-width: 5px;
     margin: -5px 0 0 100px;
     padding-left: 10px;
+    position: fixed;
 }
 
 a:link {
@@ -43,7 +44,7 @@ a:visited {
 
 .heretext {
     font-size: 22px;
-    margin: -220px 0 0 245px;
+    margin: -15px 0 0 245px;
     text-indent: 40px;
     width: 1020px;
 }
